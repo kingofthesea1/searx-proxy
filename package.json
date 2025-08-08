@@ -1,6 +1,5 @@
 {
-  "name":"searx-proxy",
-  "version":"1.0.0",
-  "main":"api/index.js",
-  "license":"MIT"
+  "name": "searx-proxy",
+  "version": "1.0.0",
+  "license": "MIT"
 }
